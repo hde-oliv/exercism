@@ -9,3 +9,4 @@ bin
 __pycache__
 .pytest_cache
 obj
+.vscode
